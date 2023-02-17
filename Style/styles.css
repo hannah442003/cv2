@@ -1,0 +1,10 @@
+body {
+    background-color: azure;
+}
+h1 {
+    color: rgb(28, 109, 156);
+}
+img {
+    border-radius: 10px;
+    height: 150px;
+}
